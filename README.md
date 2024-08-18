@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, Flutter**
 
-- 📫 How to reach me **ntemesgen49@gmail.com**
+- 📫 How to reach me **dev.natnaelt@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
